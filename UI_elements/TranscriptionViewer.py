@@ -1,3 +1,4 @@
+import os
 
 from PyQt6.QtWidgets import (
     QApplication,
@@ -23,10 +24,6 @@ from PyQt6.QtCore import Qt, QRect
 import torchaudio
 from buzz.widgets.audio_player import AudioPlayer
 from buzz.widgets.icon import UndoIcon
-
-
-
-
 
 
 class TranscriptionWindow(QMainWindow):
