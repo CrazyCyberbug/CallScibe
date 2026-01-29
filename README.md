@@ -60,15 +60,6 @@ This application enables transcription, entity recognition, and analysis of mult
 - **Conversational AI-powered assistant** to analyze transcriptions.
 - Provides **fact-based responses** using transcript data.
 
-## System Requirements
-| Component  | Minimum | Optimal |
-|------------|------------|------------|
-| OS | Ubuntu 20.04+ | Ubuntu 22.04+ |
-| CPU | Ryzen 5900X / i9-12900K | Xeon 6226R / EPYC 7702 |
-| GPU | 1x RTX 3090 (24GB) | 2x RTX 3090 / 4090 |
-| RAM | 64GB DDR4 | 128GB DDR4+ |
-| Storage | 1TB NVMe SSD | 2TB NVMe SSD + HDD |
-
 ## Installation & Setup
 ### Prerequisites
 Ensure your system meets the **minimum requirements** mentioned above.
