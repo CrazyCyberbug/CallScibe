@@ -3,6 +3,10 @@
 ## Overview
 This application enables transcription, entity recognition, and analysis of multilingual audio recordings, specifically targeting Indian languages such as **English, Kannada, Hindi, Tamil, and Malayalam**. With advanced **LLM-based transcription correction**, **timestamped transcriptions**, and an **interactive chatbot**, it provides an intuitive and efficient user experience for analyzing recorded conversations.
 
+
+https://github.com/user-attachments/assets/611cd2b0-c2c1-4295-857c-b8cfeacac720
+
+
 ## Features
 ### 1. Multilingual Transcription
 - Supports audio transcription for **English, Kannada, Hindi, Tamil, and Malayalam**.
